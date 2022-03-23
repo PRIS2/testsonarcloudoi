@@ -123,4 +123,11 @@ print(not False)     # True
 print(not not True)  # True
 print(not not False) # False
 print("forzado")
-print("forzado")
+print('forzado')
+
+
+# Calculating area of a rectangle
+length = 10
+width = 20
+area_of_rectangle = length * width
+print('Area of rectangle:', area_of_rectangle)
