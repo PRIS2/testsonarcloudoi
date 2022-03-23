@@ -9,8 +9,8 @@ texto=input('Introduzca un numero: '))
 num = int(input('Introduzca un numero: '))
 
 
-###Ejemplo foreach, imprime los numeros de la lista
+i = 1
+while i <= 25: 
+print(i),
+i += 1
 
-for i in [1, 5, 7]:
-print(i, end=" ") #imprimir numero, sin salto linea
-print() #lineavacia
